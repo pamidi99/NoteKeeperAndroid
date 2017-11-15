@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="show_all">Show All</string>
+    <string name="show_completed">Show Completed</string>
+    <string name="show_pending">Show Pending</string>
+    <string name="sort_by_time">Sort by Time</string>
+    <string name="sort_by_priority">Sort by Priority</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="diolog_message_negative">Do you Really want to mark it as pending?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Add">Add</string>
+    <string name="diolog_message_positive">Do You really want to delete the task?</string>
+    <string-array name="priorities">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
